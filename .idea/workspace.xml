@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cd95c27c-b259-4cbd-a4e8-2bee0bbc4486" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/first-projects-hello-world.iml" afterPath="$PROJECT_DIR$/first-projects-hello-world.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/HelloWorld.java" />
     </list>
     <ignored path="first-projects-hello-world.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +28,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+            <state relative-caret-position="269">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -640,7 +638,7 @@
       <workItem from="1486591051620" duration="42000" />
       <workItem from="1486609435944" duration="42000" />
       <workItem from="1486609828980" duration="7000" />
-      <workItem from="1488396579616" duration="136000" />
+      <workItem from="1488396579616" duration="1521000" />
     </task>
     <servers />
   </component>
@@ -677,7 +675,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4074000" />
+    <option name="totallyTimeSpent" value="5459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1635" height="773" extended-state="0" />
@@ -829,8 +827,8 @@
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        <state relative-caret-position="269">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
